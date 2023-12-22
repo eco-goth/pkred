@@ -1,6 +1,6 @@
 db DEX_GOLDUCK ; pokedex id
 db 80 ; base hp
-db 82 ; base attack
+db 92 ; base attack
 db 78 ; base defense
 db 85 ; base speed
 db 80 ; base special
