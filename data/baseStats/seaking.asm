@@ -1,7 +1,7 @@
 db DEX_SEAKING ; pokedex id
 db 80 ; base hp
-db 92 ; base attack
-db 65 ; base defense
+db 102 ; base attack
+db 75 ; base defense
 db 68 ; base speed
 db 80 ; base special
 db WATER ; species type 1
