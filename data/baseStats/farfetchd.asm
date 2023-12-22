@@ -1,6 +1,6 @@
 db DEX_FARFETCHD ; pokedex id
 db 62 ; base hp
-db 85 ; base attack
+db 75 ; base attack
 db 55 ; base defense
 db 85 ; base speed
 db 58 ; base special
