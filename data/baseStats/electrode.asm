@@ -1,6 +1,6 @@
 db DEX_ELECTRODE ; pokedex id
 db 60 ; base hp
-db 55 ; base attack
+db 65 ; base attack
 db 70 ; base defense
 db 140 ; base speed
 db 85 ; base special
