@@ -1,5 +1,5 @@
 db DEX_PIDGEY ; pokedex id
-db 40 ; base hp
+db 45 ; base hp
 db 45 ; base attack
 db 40 ; base defense
 db 56 ; base speed
