@@ -2,7 +2,7 @@ db DEX_MEOWTH ; pokedex id
 db 40 ; base hp
 db 45 ; base attack
 db 35 ; base defense
-db 90 ; base speed
+db 95 ; base speed
 db 40 ; base special
 db NORMAL ; species type 1
 db NORMAL ; species type 2
