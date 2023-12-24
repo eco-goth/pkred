@@ -2,10 +2,10 @@ ForestMons:
 	db $08
 	db 4,CATERPIE
 	db 4,WEEDLE
-	db 6,METAPOD
+	db 7,METAPOD
 	db 4,ODDISH
 	db 5,ODDISH
-	db 6,KAKUNA
+	db 7,KAKUNA
 	db 6,CATERPIE
 	db 5,PIKACHU
 	db 7,PIDGEY
