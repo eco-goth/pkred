@@ -2,8 +2,8 @@ Route5Mons:
 	db $0F
 	db 15,MEOWTH
 	db 14,RATTATA
-	db 13,ABRA
 	db 16,FARFETCH'D
+	db 13,ABRA
 	db 17,PIDGEY
 	db 18,PIDGEOTTO
 	db 17,FARFETCH'D
