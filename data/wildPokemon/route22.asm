@@ -7,7 +7,7 @@ Route22Mons:
 	db 4,NIDORAN_F
 	db 4,NIDORAN_M
 	db 3,POLIWAG
-	db 4,POLIWAG
 	db 4,MANKEY
+	db 4,POLIWAG
 	db 6,MANKEY
 	db $00
