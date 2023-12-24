@@ -51,7 +51,7 @@ MoveEnd:
 	move DOUBLE_EDGE,  RECOIL_EFFECT,              100, NORMAL,   100, 15
 	move TAIL_WHIP,    DEFENSE_DOWN1_EFFECT,         0, NORMAL,   100, 30
 	move POISON_STING, POISON_SIDE_EFFECT1,         15, POISON,   100, 35
-	move TWINEEDLE,    TWINEEDLE_EFFECT,            25, BUG,      100, 20
+	move TWINEEDLE,    TWINEEDLE_EFFECT,            30, BUG,      100, 20
 	move PIN_MISSILE,  TWO_TO_FIVE_ATTACKS_EFFECT,  20, BUG,       100, 20
 	move LEER,         DEFENSE_DOWN1_EFFECT,         0, NORMAL,   100, 30
 	move BITE,         FLINCH_SIDE_EFFECT1,         60, GHOST,   100, 25
