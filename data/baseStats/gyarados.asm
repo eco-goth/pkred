@@ -1,6 +1,6 @@
 db DEX_GYARADOS ; pokedex id
 db 95 ; base hp
-db 125 ; base attack
+db 120 ; base attack
 db 79 ; base defense
 db 81 ; base speed
 db 100 ; base special
