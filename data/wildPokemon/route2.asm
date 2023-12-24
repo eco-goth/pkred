@@ -5,7 +5,7 @@ Route2Mons:
 	db 4,RATTATA
 	db 4,MANKEY
 	db 5,MANKEY
-	db 4,PIDGEY
+	db 5,PIDGEY
 	db 5,NIDORAN_M
 	db 5,NIDORAN_F
 	db 7,PIDGEY
