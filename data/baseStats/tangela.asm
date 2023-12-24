@@ -1,6 +1,6 @@
 db DEX_TANGELA ; pokedex id
-db 65 ; base hp
-db 55 ; base attack
+db 70 ; base hp
+db 65 ; base attack
 db 115 ; base defense
 db 60 ; base speed
 db 100 ; base special
