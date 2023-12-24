@@ -50,18 +50,18 @@ MoveEnd:
 	move THRASH,       THRASH_PETAL_DANCE_EFFECT,   90, NORMAL,   100, 20
 	move DOUBLE_EDGE,  RECOIL_EFFECT,              100, NORMAL,   100, 15
 	move TAIL_WHIP,    DEFENSE_DOWN1_EFFECT,         0, NORMAL,   100, 30
-	move POISON_STING, POISON_SIDE_EFFECT1,         15, POISON,   100, 35
+	move POISON_STING, POISON_SIDE_EFFECT1,         30, POISON,   100, 35
 	move TWINEEDLE,    TWINEEDLE_EFFECT,            30, BUG,      100, 20
 	move PIN_MISSILE,  TWO_TO_FIVE_ATTACKS_EFFECT,  20, BUG,       100, 20
 	move LEER,         DEFENSE_DOWN1_EFFECT,         0, NORMAL,   100, 30
-	move BITE,         FLINCH_SIDE_EFFECT1,         60, GHOST,   100, 25
+	move BITE,         FLINCH_SIDE_EFFECT1,         70, GHOST,   100, 25
 	move GROWL,        ATTACK_DOWN1_EFFECT,          0, NORMAL,   100, 40
 	move ROAR,         SWITCH_AND_TELEPORT_EFFECT,   0, NORMAL,   100, 20
 	move SING,         SLEEP_EFFECT,                 0, NORMAL,    55, 15
 	move SUPERSONIC,   CONFUSION_EFFECT,             0, NORMAL,    55, 20
 	move SONICBOOM,    SPECIAL_DAMAGE_EFFECT,        1, NORMAL,    90, 20
 	move DISABLE,      DISABLE_EFFECT,               0, NORMAL,    55, 20
-	move ACID,         DEFENSE_DOWN_SIDE_EFFECT,    40, POISON,   100, 30
+	move ACID,         DEFENSE_DOWN_SIDE_EFFECT,    55, POISON,   100, 30
 	move EMBER,        BURN_SIDE_EFFECT1,           40, FIRE,     100, 25
 	move FLAMETHROWER, BURN_SIDE_EFFECT1,           95, FIRE,     100, 15
 	move MIST,         MIST_EFFECT,                  0, ICE,      100, 30
@@ -133,8 +133,8 @@ MoveEnd:
 	move SELFDESTRUCT, EXPLODE_EFFECT,             130, NORMAL,   100,  5
 	move EGG_BOMB,     NO_ADDITIONAL_EFFECT,       100, NORMAL,    75, 10
 	move LICK,         PARALYZE_SIDE_EFFECT2,       50, GHOST,    100, 30
-	move SMOG,         POISON_SIDE_EFFECT2,         20, POISON,    90, 20
-	move SLUDGE,       POISON_SIDE_EFFECT2,         65, POISON,   100, 20
+	move SMOG,         POISON_SIDE_EFFECT2,         30, POISON,    90, 20
+	move SLUDGE,       POISON_SIDE_EFFECT2,         80, POISON,   100, 20
 	move BONE_CLUB,    FLINCH_SIDE_EFFECT1,         65, GROUND,    85, 20
 	move FIRE_BLAST,   BURN_SIDE_EFFECT2,          120, FIRE,      80,  5
 	move WATERFALL,    NO_ADDITIONAL_EFFECT,        80, WATER,    100, 15
