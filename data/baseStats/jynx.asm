@@ -2,7 +2,7 @@ db DEX_JYNX ; pokedex id
 db 65 ; base hp
 db 50 ; base attack
 db 65 ; base defense
-db 95 ; base speed
+db 105 ; base speed
 db 115 ; base special
 db ICE ; species type 1
 db PSYCHIC ; species type 2
