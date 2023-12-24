@@ -3,7 +3,7 @@ db 65 ; base hp
 db 50 ; base attack
 db 65 ; base defense
 db 105 ; base speed
-db 115 ; base special
+db 105 ; base special
 db ICE ; species type 1
 db PSYCHIC ; species type 2
 db 45 ; catch rate
