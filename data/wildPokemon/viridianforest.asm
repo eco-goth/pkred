@@ -7,7 +7,7 @@ ForestMons:
 	db 5,ODDISH
 	db 6,KAKUNA
 	db 6,CATERPIE
-	db 7,PIDGEY
 	db 5,PIKACHU
+	db 7,PIDGEY
 	db 9,PIDGEOTTO
 	db $00
