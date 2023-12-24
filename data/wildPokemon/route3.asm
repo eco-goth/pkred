@@ -9,5 +9,5 @@ Route3Mons:
 	db 11,VULPIX
 	db 12,RATTATA
 	db 11,SPEAROW
-	db 15,JIGGLYPUFF
+	db 13,JIGGLYPUFF
 	db $00
