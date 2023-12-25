@@ -9,5 +9,5 @@ Route24Mons:
 	db 13,VENONAT
 	db 16,VENONAT
 	db 17,PIDGEY
-	db 18,PIDGETTO
+	db 18,PIDGEOTTO
 	db $00
