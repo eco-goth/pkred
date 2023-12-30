@@ -14,7 +14,7 @@ dw KoffingPicBack
 ; attacks known at lvl 0
 db TACKLE
 db SMOG
-db 0
+db POISON_GAS
 db 0
 db 0 ; growth rate
 ; learnset
