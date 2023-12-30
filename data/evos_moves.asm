@@ -964,14 +964,16 @@ VenonatEvosMoves:
 	db EV_LEVEL, 31, VENOMOTH
 	db 0
 ; Learnset
-	db 11, SUPERSONIC
-	db 19, CONFUSION
-	db 22, POISONPOWDER
-	db 27, LEECH_LIFE
-	db 30, STUN_SPORE
-	db 35, PSYBEAM
-	db 38, SLEEP_POWDER
-	db 43, PSYCHIC_M
+	db 10, SUPERSONIC
+	db 12, CONFUSION
+	db 14, LEECH_LIFE
+	db 16, ACID
+	db 21, POISONPOWDER
+	db 21, STUN_SPORE
+	db 26, PSYBEAM
+	db 30, SLEEP_POWDER
+	db 36, SLUDGE
+	db 42, PSYCHIC_M
 	db 0
 
 DragoniteEvosMoves:
@@ -1562,12 +1564,16 @@ VenomothEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 22, POISONPOWDER
-	db 27, LEECH_LIFE
-	db 30, STUN_SPORE
-	db 38, PSYBEAM
-	db 43, SLEEP_POWDER
-	db 50, PSYCHIC_M
+	db 10, SUPERSONIC
+	db 12, CONFUSION
+	db 14, LEECH_LIFE
+	db 16, ACID
+	db 21, POISONPOWDER
+	db 21, STUN_SPORE
+	db 26, PSYBEAM
+	db 30, SLEEP_POWDER
+	db 36, SLUDGE
+	db 42, PSYCHIC_M
 	db 0
 
 DewgongEvosMoves:
