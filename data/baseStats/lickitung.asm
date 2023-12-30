@@ -12,9 +12,9 @@ INCBIN "pic/swmon/lickitung.pic",0,1 ; 77, sprite dimensions
 dw LickitungPicFront
 dw LickitungPicBack
 ; attacks known at lvl 0
-db WRAP
+db POUND
 db SUPERSONIC
-db 0
+db LICK
 db 0
 db 0 ; growth rate
 ; learnset
