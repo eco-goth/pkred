@@ -1284,7 +1284,7 @@ SandshrewEvosMoves:
 	db 17, SLASH
 	db 24, SWORDS_DANCE
 	db 27, DIG
-	db 36, EARTHQUAKE
+	db 39, EARTHQUAKE
 	db 0
 
 SandslashEvosMoves:
@@ -1296,7 +1296,7 @@ SandslashEvosMoves:
 	db 17, SLASH
 	db 24, SWORDS_DANCE
 	db 27, DIG
-	db 36, EARTHQUAKE
+	db 39, EARTHQUAKE
 	db 0
 
 OmanyteEvosMoves:
@@ -1553,11 +1553,11 @@ DugtrioEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
+	db 12, SAND_ATTACK
 	db 15, GROWL
 	db 19, DIG
-	db 24, SAND_ATTACK
-	db 35, SLASH
-	db 47, EARTHQUAKE
+	db 24, SLASH
+	db 36, EARTHQUAKE
 	db 0
 
 VenomothEvosMoves:
