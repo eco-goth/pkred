@@ -767,11 +767,14 @@ ParasectEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
+	db 13, LEECH_LIFE
+	db 15, POISONPOWDER
 	db 13, STUN_SPORE
-	db 20, LEECH_LIFE
+	db 20, SWORDS_DANCE
 	db 30, SPORE
 	db 39, SLASH
-	db 48, GROWTH
+	db 48, 
+	db 40, MEGA_DRAIN
 	db 0
 
 PsyduckEvosMoves:
@@ -1419,11 +1422,17 @@ ZubatEvosMoves:
 	db EV_LEVEL, 22, GOLBAT
 	db 0
 ; Learnset
-	db 10, SUPERSONIC
-	db 15, BITE
-	db 21, CONFUSE_RAY
-	db 28, WING_ATTACK
-	db 36, HAZE
+	db 9, ABSORB
+	db 12, SUPERSONIC
+	db 15, LEECH_LIFE
+	db 18, CONFUSE_RAY
+	db 21, GUST
+	db 24, ACID
+	db 27, BITE
+	db 30, WING_ATTACK
+	db 33, SLUDGE
+	db 36, MEGA_DRAIN
+	db 39, HAZE
 	db 0
 
 EkansEvosMoves:
@@ -1656,11 +1665,17 @@ GolbatEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 10, SUPERSONIC
-	db 15, BITE
-	db 21, CONFUSE_RAY
-	db 32, WING_ATTACK
-	db 43, HAZE
+	db 9, ABSORB
+	db 12, SUPERSONIC
+	db 15, LEECH_LIFE
+	db 18, CONFUSE_RAY
+	db 21, GUST
+	db 24, ACID
+	db 27, BITE
+	db 30, WING_ATTACK
+	db 33, SLUDGE
+	db 36, MEGA_DRAIN
+	db 39, HAZE
 	db 0
 
 MewtwoEvosMoves:
@@ -2243,12 +2258,15 @@ OddishEvosMoves:
 	db EV_LEVEL, 21, GLOOM
 	db 0
 ; Learnset
-	db 15, POISONPOWDER
-	db 17, STUN_SPORE
-	db 19, SLEEP_POWDER
-	db 24, ACID
-	db 33, PETAL_DANCE
-	db 46, SOLARBEAM
+	db 9, ACID
+	db 14, POISONPOWDER
+	db 16, STUN_SPORE
+	db 18, SLEEP_POWDER
+	db 22, LEECH_SEED
+	db 26, MEGA_DRAIN
+	db 32, SLUDGE
+	db 36, PETAL_DANCE
+	db 44, SOLARBEAM
 	db 0
 
 GloomEvosMoves:
@@ -2256,21 +2274,30 @@ GloomEvosMoves:
 	db EV_ITEM, LEAF_STONE, 1, VILEPLUME
 	db 0
 ; Learnset
-	db 15, POISONPOWDER
-	db 17, STUN_SPORE
-	db 19, SLEEP_POWDER
-	db 28, ACID
-	db 38, PETAL_DANCE
-	db 52, SOLARBEAM
+	db 9, ACID
+	db 14, POISONPOWDER
+	db 16, STUN_SPORE
+	db 18, SLEEP_POWDER
+	db 22, LEECH_SEED
+	db 26, MEGA_DRAIN
+	db 32, SLUDGE
+	db 36, PETAL_DANCE
+	db 44, SOLARBEAM
 	db 0
 
 VileplumeEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 15, POISONPOWDER
-	db 17, STUN_SPORE
-	db 19, SLEEP_POWDER
+	db 9, ACID
+	db 14, POISONPOWDER
+	db 16, STUN_SPORE
+	db 18, SLEEP_POWDER
+	db 22, LEECH_SEED
+	db 26, MEGA_DRAIN
+	db 32, SLUDGE
+	db 36, PETAL_DANCE
+	db 44, SOLARBEAM
 	db 0
 
 BellsproutEvosMoves:
