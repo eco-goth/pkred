@@ -1984,9 +1984,10 @@ RattataEvosMoves:
 	db 0
 ; Learnset
 	db 7, QUICK_ATTACK
-	db 14, HYPER_FANG
-	db 23, FOCUS_ENERGY
-	db 34, SUPER_FANG
+	db 10, FOCUS_ENERGY
+	db 15, HYPER_FANG
+	db 22, BITE
+	db 31, SUPER_FANG
 	db 0
 
 RaticateEvosMoves:
@@ -1994,9 +1995,10 @@ RaticateEvosMoves:
 	db 0
 ; Learnset
 	db 7, QUICK_ATTACK
-	db 14, HYPER_FANG
-	db 27, FOCUS_ENERGY
-	db 41, SUPER_FANG
+	db 10, FOCUS_ENERGY
+	db 15, HYPER_FANG
+	db 22, BITE
+	db 31, SUPER_FANG
 	db 0
 
 NidorinoEvosMoves:
