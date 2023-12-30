@@ -310,11 +310,11 @@ IvysaurEvosMoves:
 	db 16, POISONPOWDER
 	db 19, ACID
 	db 25, RAZOR_LEAF
-	db 31, GROWTH
-	db 37, SLEEP_POWDER
-	db 43, SLUDGE
-	db 49, BODY_SLAM
-	db 55, SOLARBEAM
+	db 29, GROWTH
+	db 33, SLEEP_POWDER
+	db 39, SLUDGE
+	db 45, BODY_SLAM
+	db 51, SOLARBEAM
 	db 0
 
 ExeggutorEvosMoves:
@@ -542,8 +542,8 @@ BlastoiseEvosMoves:
 	db 25, BUBBLEBEAM
 	db 31, HEADBUTT
 	db 34, WATERFALL
-	db 38, SKULL_BASH
-	db 43, HYDRO_PUMP
+	db 42, SKULL_BASH
+	db 50, HYDRO_PUMP
 	db 0
 
 PinsirEvosMoves:
@@ -1849,11 +1849,11 @@ BulbasaurEvosMoves:
 	db 16, POISONPOWDER
 	db 19, ACID
 	db 25, RAZOR_LEAF
-	db 31, GROWTH
-	db 37, SLEEP_POWDER
-	db 43, SLUDGE
-	db 49, BODY_SLAM
-	db 55, SOLARBEAM
+	db 29, GROWTH
+	db 33, SLEEP_POWDER
+	db 39, SLUDGE
+	db 45, BODY_SLAM
+	db 51, SOLARBEAM
 	db 0
 
 VenusaurEvosMoves:
@@ -1865,11 +1865,11 @@ VenusaurEvosMoves:
 	db 16, POISONPOWDER
 	db 19, ACID
 	db 25, RAZOR_LEAF
-	db 31, GROWTH
-	db 37, SLEEP_POWDER
-	db 43, SLUDGE
-	db 49, BODY_SLAM
-	db 55, SOLARBEAM
+	db 29, GROWTH
+	db 33, SLEEP_POWDER
+	db 39, SLUDGE
+	db 45, BODY_SLAM
+	db 51, SOLARBEAM
 	db 0
 
 TentacruelEvosMoves:
@@ -2095,9 +2095,10 @@ CharmanderEvosMoves:
 	db 25, FIRE_PUNCH
 	db 31, DRAGON_RAGE
 	db 34, SLASH
+	db 37, WING_ATTACK
 	db 40, FLAMETHROWER
-	db 43, FIRE_SPIN
-	db 46, FIRE_BLAST
+	db 46, FIRE_SPIN
+	db 52, FIRE_BLAST
 	db 0
 
 SquirtleEvosMoves:
@@ -2113,8 +2114,8 @@ SquirtleEvosMoves:
 	db 25, BUBBLEBEAM
 	db 31, HEADBUTT
 	db 34, WATERFALL
-	db 38, SKULL_BASH
-	db 43, HYDRO_PUMP
+	db 42, SKULL_BASH
+	db 50, HYDRO_PUMP
 	db 0
 
 CharmeleonEvosMoves:
@@ -2130,8 +2131,8 @@ CharmeleonEvosMoves:
 	db 31, DRAGON_RAGE
 	db 34, SLASH
 	db 40, FLAMETHROWER
-	db 43, FIRE_SPIN
-	db 46, FIRE_BLAST
+	db 46, FIRE_SPIN
+	db 52, FIRE_BLAST
 	db 0
 
 WartortleEvosMoves:
@@ -2147,8 +2148,8 @@ WartortleEvosMoves:
 	db 25, BUBBLEBEAM
 	db 31, HEADBUTT
 	db 34, WATERFALL
-	db 38, SKULL_BASH
-	db 43, HYDRO_PUMP
+	db 42, SKULL_BASH
+	db 50, HYDRO_PUMP
 	db 0
 
 CharizardEvosMoves:
@@ -2164,8 +2165,8 @@ CharizardEvosMoves:
 	db 34, SLASH
 	db 37, WING_ATTACK
 	db 40, FLAMETHROWER
-	db 43, FIRE_SPIN
-	db 46, FIRE_BLAST
+	db 46, FIRE_SPIN
+	db 52, FIRE_BLAST
 	db 0
 
 MissingNoB5EvosMoves:
