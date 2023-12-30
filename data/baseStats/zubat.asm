@@ -12,7 +12,7 @@ INCBIN "pic/swmon/zubat.pic",0,1 ; 55, sprite dimensions
 dw ZubatPicFront
 dw ZubatPicBack
 ; attacks known at lvl 0
-db LEECH_LIFE
+db POISON_STING
 db 0
 db 0
 db 0
