@@ -234,12 +234,15 @@ ClefairyEvosMoves:
 	db EV_ITEM, MOON_STONE, 1, CLEFABLE
 	db 0
 ; Learnset
-	db 13, SING
-	db 18, DOUBLESLAP
-	db 24, MINIMIZE
-	db 31, METRONOME
-	db 39, DEFENSE_CURL
-	db 48, LIGHT_SCREEN
+	db 9, SING
+	db 12, DOUBLESLAP
+	db 16, METRONOME
+	db 21, MIMIC
+	db 27, MINIMIZE
+	db 34, BODY_SLAM
+	db 42, REFLECT
+	db 42, LIGHT_SCREEN
+	db 51, DOUBLE_EDGE
 	db 0
 
 SpearowEvosMoves:
@@ -362,11 +365,11 @@ NidoranFEvosMoves:
 	db 6, POISON_STING
 	db 9, TAIL_WHIP
 	db 12, DOUBLE_KICK
-	db 16, FURY_SWIPES
-	db 20, BITE
-	db 24, SLUDGE
+	db 17, FURY_SWIPES
+	db 22, BITE
 	db 29, BODY_SLAM
-	db 34, DIG
+	db 36, SLUDGE
+	db 44, DIG
 	db 0
 
 NidoqueenEvosMoves:
@@ -376,13 +379,13 @@ NidoqueenEvosMoves:
 	db 6, POISON_STING
 	db 9, TAIL_WHIP
 	db 12, DOUBLE_KICK
-	db 16, FURY_SWIPES
-	db 20, SLUDGE
-	db 24, BITE
+	db 17, FURY_SWIPES
+	db 22, BITE
 	db 29, BODY_SLAM
-	db 34, DIG
-	db 40, THRASH
-	db 46, EARTHQUAKE
+	db 36, SLUDGE
+	db 44, DIG
+	db 52, THRASH
+	db 55, EARTHQUAKE
 	db 0
 
 CuboneEvosMoves:
@@ -582,11 +585,14 @@ OnixEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 15, BIND
-	db 19, ROCK_THROW
-	db 25, RAGE
-	db 33, SLAM
-	db 43, HARDEN
+	db 12, HARDEN
+	db 14, ROCK_THROW
+	db 17, SLAM
+	db 21, DIG
+	db 26, BIND
+	db 32, ROCK_SLIDE
+	db 37, FISSURE
+	db 45, EARTHQUAKE
 	db 0
 
 FearowEvosMoves:
@@ -646,11 +652,13 @@ GravelerEvosMoves:
 	db EV_ITEM, HEART_STONE, 1, GOLEM
 	db 0
 ; Learnset
-	db 11, DEFENSE_CURL
-	db 16, ROCK_THROW
-	db 21, SELFDESTRUCT
-	db 29, HARDEN
-	db 36, EARTHQUAKE
+	db 8, DEFENSE_CURL
+	db 13, ROCK_THROW
+	db 18, BIDE
+	db 23, SELFDESTRUCT
+	db 28, TAKE_DOWN
+	db 33, ROCK_SLIDE
+	db 38, EARTHQUAKE
 	db 43, EXPLOSION
 	db 0
 
@@ -764,11 +772,13 @@ GolemEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 11, DEFENSE_CURL
-	db 16, ROCK_THROW
-	db 21, SELFDESTRUCT
-	db 29, HARDEN
-	db 36, EARTHQUAKE
+	db 8, DEFENSE_CURL
+	db 13, ROCK_THROW
+	db 18, BIDE
+	db 23, SELFDESTRUCT
+	db 28, TAKE_DOWN
+	db 33, ROCK_SLIDE
+	db 38, EARTHQUAKE
 	db 43, EXPLOSION
 	db 0
 
@@ -1420,12 +1430,15 @@ BeedrillEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 12, FURY_ATTACK
-	db 16, FOCUS_ENERGY
-	db 20, TWINEEDLE
-	db 25, RAGE
-	db 30, PIN_MISSILE
-	db 35, AGILITY
+	db 10, FURY_ATTACK
+	db 12, ACID
+	db 14, RAGE
+	db 16, TWINEEDLE
+	db 19, FOCUS_ENERGY
+	db 22, AGILITY
+	db 25, SLUDGE
+	db 29, PIN_MISSILE
+	db 33, DOUBLE_EDGE
 	db 0
 
 MissingNo73EvosMoves:
@@ -1525,14 +1538,16 @@ ButterfreeEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 10, CONFUSION
-	db 13, POISONPOWDER
-	db 14, STUN_SPORE
-	db 15, SLEEP_POWDER
-	db 18, SUPERSONIC
-	db 23, WHIRLWIND
-	db 28, GUST
-	db 34, PSYBEAM
+	db 10, GUST
+	db 12, CONFUSION
+	db 14, SUPERSONIC
+	db 15, POISONPOWDER
+	db 15, STUN_SPORE
+	db 17, SLEEP_POWDER
+	db 20, PSYBEAM
+	db 23, RAZOR_WIND
+	db 27, REFLECT
+	db 33, PSYCHIC
 	db 0
 
 MachampEvosMoves:
@@ -1684,6 +1699,15 @@ ClefableEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
+	db 9, SING
+	db 12, DOUBLESLAP
+	db 16, METRONOME
+	db 21, MIMIC
+	db 27, MINIMIZE
+	db 34, BODY_SLAM
+	db 42, REFLECT
+	db 42, LIGHT_SCREEN
+	db 51, DOUBLE_EDGE
 	db 0
 
 WeezingEvosMoves:
@@ -1951,11 +1975,11 @@ NidorinaEvosMoves:
 	db 6, POISON_STING
 	db 9, TAIL_WHIP
 	db 12, DOUBLE_KICK
-	db 16, FURY_SWIPES
-	db 20, SLUDGE
-	db 24, BITE
+	db 17, FURY_SWIPES
+	db 22, BITE
 	db 29, BODY_SLAM
-	db 34, DIG
+	db 36, SLUDGE
+	db 44, DIG
 	db 0
 
 GeodudeEvosMoves:
@@ -1963,12 +1987,14 @@ GeodudeEvosMoves:
 	db EV_LEVEL, 25, GRAVELER
 	db 0
 ; Learnset
-	db 11, DEFENSE_CURL
-	db 16, ROCK_THROW
-	db 21, SELFDESTRUCT
-	db 26, HARDEN
-	db 31, EARTHQUAKE
-	db 36, EXPLOSION
+	db 8, DEFENSE_CURL
+	db 13, ROCK_THROW
+	db 18, BIDE
+	db 23, SELFDESTRUCT
+	db 28, TAKE_DOWN
+	db 33, ROCK_SLIDE
+	db 38, EARTHQUAKE
+	db 43, EXPLOSION
 	db 0
 
 PorygonEvosMoves:
