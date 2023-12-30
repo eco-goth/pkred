@@ -14,7 +14,7 @@ dw GrimerPicBack
 ; attacks known at lvl 0
 db POUND
 db DISABLE
-db 0
+db POISON_GAS
 db 0
 db 0 ; growth rate
 ; learnset
