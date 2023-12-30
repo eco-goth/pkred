@@ -1,9 +1,9 @@
 db DEX_ARBOK ; pokedex id
 db 65 ; base hp
-db 90 ; base attack
+db 95 ; base attack
 db 69 ; base defense
-db 80 ; base speed
-db 70 ; base special
+db 85 ; base speed
+db 75 ; base special
 db POISON ; species type 1
 db POISON ; species type 2
 db 90 ; catch rate
