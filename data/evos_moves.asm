@@ -912,11 +912,11 @@ DiglettEvosMoves:
 	db EV_LEVEL, 26, DUGTRIO
 	db 0
 ; Learnset
+	db 12, SAND_ATTACK
 	db 15, GROWL
 	db 19, DIG
-	db 24, SAND_ATTACK
-	db 31, SLASH
-	db 40, EARTHQUAKE
+	db 24, SLASH
+	db 36, EARTHQUAKE
 	db 0
 
 TaurosEvosMoves:
