@@ -954,11 +954,13 @@ FarfetchdEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 7, LEER
-	db 15, FURY_ATTACK
-	db 23, SWORDS_DANCE
-	db 31, AGILITY
-	db 39, SLASH
+	db 5, LEER
+	db 12, FURY_ATTACK
+	db 19, SWORDS_DANCE
+	db 26, WING_ATTACK
+	db 30, SLASH
+	db 37, AGILITY
+	db 44, SKY_ATTACK
 	db 0
 
 VenonatEvosMoves:
