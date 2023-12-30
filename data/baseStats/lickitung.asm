@@ -1,5 +1,5 @@
 db DEX_LICKITUNG ; pokedex id
-db 105 ; base hp
+db 150 ; base hp
 db 80 ; base attack
 db 75 ; base defense
 db 30 ; base speed
