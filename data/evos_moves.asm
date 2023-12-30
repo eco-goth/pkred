@@ -252,11 +252,14 @@ SpearowEvosMoves:
 	db EV_LEVEL, 20, FEAROW
 	db 0
 ; Learnset
-	db 9, LEER
-	db 15, FURY_ATTACK
-	db 22, MIRROR_MOVE
-	db 29, DRILL_PECK
-	db 36, AGILITY
+	db 5, FOCUS_ENERGY
+	db 8, RAGE
+	db 12, FURY_ATTACK
+	db 17, RAZOR_WIND
+	db 23, MIRROR_MOVE
+	db 30, DRILL_PECK
+	db 38, DOUBLE_EDGE
+	db 47, SKY_ATTACK
 	db 0
 
 VoltorbEvosMoves:
