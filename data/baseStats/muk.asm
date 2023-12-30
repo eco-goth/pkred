@@ -1,9 +1,9 @@
 db DEX_MUK ; pokedex id
 db 105 ; base hp
 db 105 ; base attack
-db 75 ; base defense
+db 85 ; base defense
 db 50 ; base speed
-db 65 ; base special
+db 95 ; base special
 db POISON ; species type 1
 db POISON ; species type 2
 db 75 ; catch rate
