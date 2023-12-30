@@ -12,9 +12,9 @@ INCBIN "pic/swmon/arbok.pic",0,1 ; 77, sprite dimensions
 dw ArbokPicFront
 dw ArbokPicBack
 ; attacks known at lvl 0
-db RAGE
-db LEER
 db POISON_STING
+db LEER
+db RAGE
 db 0
 db 0 ; growth rate
 ; learnset
