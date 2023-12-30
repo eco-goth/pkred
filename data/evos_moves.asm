@@ -512,12 +512,12 @@ ScytherEvosMoves:
 	db 0
 ; Learnset
 	db 17, LEER
-	db 20, FOCUS_ENERGY
-	db 24, DOUBLE_TEAM
+	db 20, DOUBLE_TEAM
+	db 24, WING_ATTACK
 	db 29, SLASH
 	db 35, SWORDS_DANCE
-	db 42, AGILITY
-	db 50, WING_ATTACK
+	db 42, FOCUS_ENERGY
+	db 50, AGILITY
 	db 0
 
 StaryuEvosMoves:
