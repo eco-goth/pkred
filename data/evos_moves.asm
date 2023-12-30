@@ -1147,7 +1147,7 @@ VulpixEvosMoves:
 	db 24, FIRE_SPIN
 	db 29, TAKE_DOWN
 	db 35, FLAMETHROWER
-	db 45, FIREBLAST
+	db 45, FIRE_BLAST
 	db 0
 
 NinetalesEvosMoves:
@@ -1162,7 +1162,7 @@ NinetalesEvosMoves:
 	db 24, FIRE_SPIN
 	db 29, TAKE_DOWN
 	db 35, FLAMETHROWER
-	db 45, FIREBLAST
+	db 45, FIRE_BLAST
 	db 0
 
 PikachuEvosMoves:
