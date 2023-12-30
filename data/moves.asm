@@ -25,10 +25,10 @@ MoveEnd:
 	move GUILLOTINE,   OHKO_EFFECT,                  1, NORMAL,    30,  5
 	move RAZOR_WIND,   CHARGE_EFFECT,               80, FLYING,    100, 10
 	move SWORDS_DANCE, ATTACK_UP2_EFFECT,            0, NORMAL,   100, 20
-	move CUT,          NO_ADDITIONAL_EFFECT,        60, BUG,    95, 30
+	move CUT,          NO_ADDITIONAL_EFFECT,        55, BUG,    95, 30
 	move GUST,         NO_ADDITIONAL_EFFECT,        40, FLYING,   100, 35
 	move WING_ATTACK,  NO_ADDITIONAL_EFFECT,        60, FLYING,   100, 35
-	move WHIRLWIND,    SWITCH_AND_TELEPORT_EFFECT,   0, NORMAL,    85, 20
+	move WHIRLWIND,    SWITCH_AND_TELEPORT_EFFECT,   0, NORMAL,    100, 20
 	move FLY,          FLY_EFFECT,                  70, FLYING,    95, 15
 	move BIND,         TRAPPING_EFFECT,             15, NORMAL,    75, 15
 	move SLAM,         NO_ADDITIONAL_EFFECT,        80, NORMAL,    75, 20
@@ -48,7 +48,7 @@ MoveEnd:
 	move WRAP,         TRAPPING_EFFECT,             15, NORMAL,    85, 20
 	move TAKE_DOWN,    RECOIL_EFFECT,               90, NORMAL,    85, 20
 	move THRASH,       THRASH_PETAL_DANCE_EFFECT,   90, NORMAL,   100, 20
-	move DOUBLE_EDGE,  RECOIL_EFFECT,              100, NORMAL,   100, 15
+	move DOUBLE_EDGE,  RECOIL_EFFECT,              120, NORMAL,   100, 15
 	move TAIL_WHIP,    DEFENSE_DOWN1_EFFECT,         0, NORMAL,   100, 30
 	move POISON_STING, POISON_SIDE_EFFECT1,         30, POISON,   100, 35
 	move TWINEEDLE,    TWINEEDLE_EFFECT,            30, BUG,      100, 20
@@ -153,7 +153,7 @@ MoveEnd:
 	move BARRAGE,      TWO_TO_FIVE_ATTACKS_EFFECT,  15, NORMAL,    100, 20
 	move LEECH_LIFE,   DRAIN_HP_EFFECT,             40, BUG,      100, 15
 	move LOVELY_KISS,  SLEEP_EFFECT,                 0, NORMAL,    75, 10
-	move SKY_ATTACK,   CHARGE_EFFECT,              140, FLYING,    90,  5
+	move SKY_ATTACK,   CHARGE_EFFECT,              140, FLYING,    100,  5
 	move TRANSFORM,    TRANSFORM_EFFECT,             0, NORMAL,   100, 10
 	move BUBBLE,       SPEED_DOWN_SIDE_EFFECT,      35, WATER,    100, 30
 	move DIZZY_PUNCH,  NO_ADDITIONAL_EFFECT,        70, NORMAL,   100, 10
