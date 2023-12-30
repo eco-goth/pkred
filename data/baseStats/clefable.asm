@@ -14,8 +14,8 @@ dw ClefablePicBack
 ; attacks known at lvl 0
 db SING
 db DOUBLESLAP
-db MINIMIZE
 db METRONOME
+db MIMIC
 db 4 ; growth rate
 ; learnset
 	tmlearn 1,5,6,8
