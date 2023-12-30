@@ -668,6 +668,7 @@ KadabraEvosMoves:
 	db 0
 ; Learnset
 	db 16, CONFUSION
+	db 16, KINESIS
 	db 20, DISABLE
 	db 27, PSYBEAM
 	db 31, RECOVER
@@ -1878,6 +1879,7 @@ AlakazamEvosMoves:
 	db 0
 ; Learnset
 	db 16, CONFUSION
+	db 16, KINESIS
 	db 20, DISABLE
 	db 27, PSYBEAM
 	db 31, RECOVER
