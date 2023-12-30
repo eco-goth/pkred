@@ -14,7 +14,7 @@ dw ArbokPicBack
 ; attacks known at lvl 0
 db POISON_STING
 db LEER
-db RAGE
+db GLARE
 db 0
 db 0 ; growth rate
 ; learnset
