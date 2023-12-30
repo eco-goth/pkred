@@ -681,14 +681,14 @@ GravelerEvosMoves:
 	db EV_ITEM, HEART_STONE, 1, GOLEM
 	db 0
 ; Learnset
-	db 8, DEFENSE_CURL
-	db 13, ROCK_THROW
-	db 18, BIDE
-	db 23, SELFDESTRUCT
-	db 28, TAKE_DOWN
-	db 33, ROCK_SLIDE
-	db 38, EARTHQUAKE
-	db 43, EXPLOSION
+	db 9, DEFENSE_CURL
+	db 14, ROCK_THROW
+	db 19, BIDE
+	db 24, SELFDESTRUCT
+	db 29, TAKE_DOWN
+	db 34, ROCK_SLIDE
+	db 39, EXPLOSION
+	db 44, EARTHQUAKE
 	db 0
 
 ChanseyEvosMoves:
@@ -807,14 +807,14 @@ GolemEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 8, DEFENSE_CURL
-	db 13, ROCK_THROW
-	db 18, BIDE
-	db 23, SELFDESTRUCT
-	db 28, TAKE_DOWN
-	db 33, ROCK_SLIDE
-	db 38, EARTHQUAKE
-	db 43, EXPLOSION
+	db 9, DEFENSE_CURL
+	db 14, ROCK_THROW
+	db 19, BIDE
+	db 24, SELFDESTRUCT
+	db 29, TAKE_DOWN
+	db 34, ROCK_SLIDE
+	db 39, EXPLOSION
+	db 44, EARTHQUAKE
 	db 0
 
 MissingNo32EvosMoves:
