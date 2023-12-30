@@ -258,6 +258,7 @@ SpearowEvosMoves:
 	db 17, RAZOR_WIND
 	db 23, MIRROR_MOVE
 	db 30, DRILL_PECK
+	db 34, AGILITY
 	db 38, DOUBLE_EDGE
 	db 47, SKY_ATTACK
 	db 0
@@ -618,11 +619,15 @@ FearowEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 9, LEER
-	db 15, FURY_ATTACK
-	db 25, MIRROR_MOVE
-	db 34, DRILL_PECK
-	db 43, AGILITY
+	db 5, FOCUS_ENERGY
+	db 8, RAGE
+	db 12, FURY_ATTACK
+	db 17, RAZOR_WIND
+	db 23, MIRROR_MOVE
+	db 30, DRILL_PECK
+	db 34, AGILITY
+	db 38, DOUBLE_EDGE
+	db 47, SKY_ATTACK
 	db 0
 
 PidgeyEvosMoves:
@@ -748,11 +753,14 @@ ArbokEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 10, POISON_STING
-	db 17, BITE
-	db 27, GLARE
-	db 36, SCREECH
-	db 47, ACID
+	db 10, LEER
+	db 13, GLARE
+	db 16, ACID
+	db 19, BITE
+	db 22, TOXIC
+	db 25, WRAP
+	db 28, SLUDGE
+	db 31, SCREECH
 	db 0
 
 ParasectEvosMoves:
@@ -1253,22 +1261,24 @@ SandshrewEvosMoves:
 	db EV_LEVEL, 22, SANDSLASH
 	db 0
 ; Learnset
-	db 10, SAND_ATTACK
+	db 6, SAND_ATTACK
+	db 11, POISON_STING
 	db 17, SLASH
-	db 24, POISON_STING
-	db 31, SWIFT
-	db 38, FURY_SWIPES
+	db 24, SWORDS_DANCE
+	db 27, DIG
+	db 36, EARTHQUAKE
 	db 0
 
 SandslashEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 10, SAND_ATTACK
+	db 6, SAND_ATTACK
+	db 11, POISON_STING
 	db 17, SLASH
-	db 27, POISON_STING
-	db 36, SWIFT
-	db 47, FURY_SWIPES
+	db 24, SWORDS_DANCE
+	db 27, DIG
+	db 36, EARTHQUAKE
 	db 0
 
 OmanyteEvosMoves:
@@ -1406,11 +1416,14 @@ EkansEvosMoves:
 	db EV_LEVEL, 22, ARBOK
 	db 0
 ; Learnset
-	db 10, POISON_STING
-	db 17, BITE
-	db 24, GLARE
+	db 10, LEER
+	db 13, GLARE
+	db 16, ACID
+	db 19, BITE
+	db 22, TOXIC
+	db 25, WRAP
+	db 28, SLUDGE
 	db 31, SCREECH
-	db 38, ACID
 	db 0
 
 ParasEvosMoves:
