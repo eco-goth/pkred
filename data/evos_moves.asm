@@ -887,12 +887,13 @@ MankeyEvosMoves:
 	db 0
 ; Learnset
 	db 9, LOW_KICK
-	db 15, KARATE_CHOP
-	db 21, FURY_SWIPES
-	db 27, FOCUS_ENERGY
-	db 33, SEISMIC_TOSS
+	db 15, FURY_SWIPES
+	db 21, SEISMIC_TOSS
+	db 27, KARATE_CHOP
+	db 33, FOCUS_ENERGY
 	db 39, THRASH
-	db 45, SCREECH
+	db 45, SUBMISSION
+	db 49, SCREECH
 	db 0
 
 SeelEvosMoves:
@@ -1081,11 +1082,11 @@ MeowthEvosMoves:
 	db EV_LEVEL, 28, PERSIAN
 	db 0
 ; Learnset
-	db 12, BITE
-	db 17, PAY_DAY
-	db 24, SCREECH
-	db 33, FURY_SWIPES
-	db 44, SLASH
+	db 11, FURY_SWIPES
+	db 16, PAY_DAY
+	db 21, BITE
+	db 26, SLASH
+	db 31, SCREECH
 	db 0
 
 KrabbyEvosMoves:
@@ -1540,13 +1541,13 @@ PrimeapeEvosMoves:
 	db 0
 ; Learnset
 	db 9, LOW_KICK
-	db 15, KARATE_CHOP
-	db 21, FURY_SWIPES
-	db 27, FOCUS_ENERGY
-	db 28, RAGE
-	db 37, SEISMIC_TOSS
-	db 45, THRASH
-	db 46, SCREECH
+	db 15, FURY_SWIPES
+	db 21, SEISMIC_TOSS
+	db 27, KARATE_CHOP
+	db 33, FOCUS_ENERGY
+	db 39, THRASH
+	db 45, SUBMISSION
+	db 49, SCREECH
 	db 0
 
 DugtrioEvosMoves:
@@ -1811,11 +1812,11 @@ PersianEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 12, BITE
-	db 17, PAY_DAY
-	db 24, SCREECH
-	db 37, FURY_SWIPES
-	db 51, SLASH
+	db 11, FURY_SWIPES
+	db 16, PAY_DAY
+	db 21, BITE
+	db 26, SLASH
+	db 31, SCREECH
 	db 0
 
 MarowakEvosMoves:
