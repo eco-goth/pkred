@@ -236,15 +236,15 @@ ClefairyEvosMoves:
 	db EV_ITEM, MOON_STONE, 1, CLEFABLE
 	db 0
 ; Learnset
-	db 9, SING
-	db 12, DOUBLESLAP
-	db 16, METRONOME
-	db 21, MIMIC
-	db 27, MINIMIZE
-	db 34, BODY_SLAM
-	db 42, REFLECT
-	db 42, LIGHT_SCREEN
-	db 51, DOUBLE_EDGE
+	db 8, SING
+	db 11, DOUBLESLAP
+	db 15, METRONOME
+	db 20, MIMIC
+	db 26, MINIMIZE
+	db 33, BODY_SLAM
+	db 41, REFLECT
+	db 41, LIGHT_SCREEN
+	db 50, DOUBLE_EDGE
 	db 0
 
 SpearowEvosMoves:
@@ -1118,17 +1118,30 @@ VulpixEvosMoves:
 	db EV_ITEM, FIRE_STONE, 1, NINETALES
 	db 0
 ; Learnset
-	db 16, QUICK_ATTACK
-	db 21, ROAR
-	db 28, CONFUSE_RAY
+	db 11, QUICK_ATTACK
+	db 13, DISABLE
+	db 15, ROAR
+	db 17, CONFUSE_RAY
+	db 20, HYPNOSIS
+	db 24, FIRE_SPIN
+	db 29, TAKE_DOWN
 	db 35, FLAMETHROWER
-	db 42, FIRE_SPIN
+	db 45, FIREBLAST
 	db 0
 
 NinetalesEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
+	db 11, QUICK_ATTACK
+	db 13, DISABLE
+	db 15, ROAR
+	db 17, CONFUSE_RAY
+	db 20, HYPNOSIS
+	db 24, FIRE_SPIN
+	db 29, TAKE_DOWN
+	db 35, FLAMETHROWER
+	db 45, FIREBLAST
 	db 0
 
 PikachuEvosMoves:
@@ -1307,13 +1320,14 @@ JigglypuffEvosMoves:
 	db EV_ITEM, MOON_STONE, 1, WIGGLYTUFF
 	db 0
 ; Learnset
-	db 9, POUND
-	db 14, DISABLE
-	db 19, DEFENSE_CURL
-	db 24, DOUBLESLAP
-	db 29, REST
-	db 34, BODY_SLAM
-	db 39, DOUBLE_EDGE
+	db 10, POUND
+	db 11, MIMIC
+	db 13, REST
+	db 16, DOUBLESLAP
+	db 20, DISABLE
+	db 25, COMET_PUNCH
+	db 31, BODY_SLAM
+	db 38, DOUBLE_EDGE
 	db 0
 
 WigglytuffEvosMoves:
@@ -1746,15 +1760,15 @@ ClefableEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 9, SING
-	db 12, DOUBLESLAP
-	db 16, METRONOME
-	db 21, MIMIC
-	db 27, MINIMIZE
-	db 34, BODY_SLAM
-	db 42, REFLECT
-	db 42, LIGHT_SCREEN
-	db 51, DOUBLE_EDGE
+	db 8, SING
+	db 11, DOUBLESLAP
+	db 15, METRONOME
+	db 20, MIMIC
+	db 26, MINIMIZE
+	db 33, BODY_SLAM
+	db 41, REFLECT
+	db 41, LIGHT_SCREEN
+	db 50, DOUBLE_EDGE
 	db 0
 
 WeezingEvosMoves:
