@@ -60,7 +60,7 @@ TrainerDataPointers:
 YoungsterData:
 ; Route 3
 	db "JIMMY@",12,RATTATA,EKANS,-1
-	db "WARREN@",14,MANKEY,PIDGEOTTO-1
+	db "WARREN@",LEVELS,14,MANKEY,15,PIDGEOTTO-1
 ; Mt. Moon 1F
 	db "JOSH@",LEVELS,15,PIDGEY,14,VULPIX,-1
 ; Route 24
