@@ -12,8 +12,8 @@ INCBIN "pic/swmon/ekans.pic",0,1 ; 55, sprite dimensions
 dw EkansPicFront
 dw EkansPicBack
 ; attacks known at lvl 0
-db WRAP
-db LEER
+db POISON_STING
+db 0
 db 0
 db 0
 db 0 ; growth rate
