@@ -12,10 +12,10 @@ INCBIN "pic/swmon/kadabra.pic",0,1 ; 66, sprite dimensions
 dw KadabraPicFront
 dw KadabraPicBack
 ; attacks known at lvl 0
-db TELEPORT
 db CONFUSION
-db DISABLE
-db KINESIS
+db 0
+db 0
+db 0
 db 3 ; growth rate
 ; learnset
 	tmlearn 1,5,6,8
