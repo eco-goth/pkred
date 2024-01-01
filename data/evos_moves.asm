@@ -2129,8 +2129,8 @@ GeodudeEvosMoves:
 	db 14, ROCK_THROW
 	db 19, BIDE
 	db 24, SELFDESTRUCT
-	db 29, TAKE_DOWN
-	db 34, ROCK_SLIDE
+	db 29, ROCK_SLIDE
+	db 34, TAKE_DOWN
 	db 39, EXPLOSION
 	db 44, EARTHQUAKE
 	db 0
