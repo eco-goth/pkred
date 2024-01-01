@@ -268,11 +268,16 @@ VoltorbEvosMoves:
 	db EV_LEVEL, 30, ELECTRODE
 	db 0
 ; Learnset
-	db 17, SONICBOOM
-	db 22, SELFDESTRUCT
-	db 29, LIGHT_SCREEN
-	db 36, SWIFT
-	db 43, EXPLOSION
+	db 7, THUNDERSHOCK
+	db 9, THUNDERWAVE
+	db 12, SWIFT
+	db 16, SONICBOOM
+	db 21, SELFDESTRUCT
+	db 27, THUNDERBOLT
+	db 34, EXPLOSION
+	db 37, LIGHT_SCREEN
+	db 41, DOUBLE_EDGE
+	db 46, THUNDER
 	db 0
 
 NidokingEvosMoves:
@@ -295,13 +300,16 @@ SlowbroEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 18, DISABLE
-	db 22, HEADBUTT
-	db 27, GROWL
-	db 33, WATER_GUN
-	db 37, WITHDRAW
-	db 44, AMNESIA
-	db 55, PSYCHIC_M
+	db 5, GROWL
+	db 8, WATER_GUN
+	db 14, CONFUSION
+	db 17, DISABLE
+	db 23, HEADBUTT
+	db 26, BUBBLEBEAM
+	db 29, PSYBEAM
+	db 36, REST
+	db 41, AMNESIA
+	db 47, PSYCHIC_M
 	db 0
 
 IvysaurEvosMoves:
@@ -653,12 +661,16 @@ SlowpokeEvosMoves:
 	db EV_LEVEL, 37, SLOWBRO
 	db 0
 ; Learnset
-	db 18, DISABLE
-	db 22, HEADBUTT
-	db 27, GROWL
-	db 33, WATER_GUN
-	db 40, AMNESIA
-	db 48, PSYCHIC_M
+	db 5, GROWL
+	db 8, WATER_GUN
+	db 14, CONFUSION
+	db 17, DISABLE
+	db 23, HEADBUTT
+	db 26, BUBBLEBEAM
+	db 29, PSYBEAM
+	db 36, REST
+	db 41, AMNESIA
+	db 47, PSYCHIC_M
 	db 0
 
 KadabraEvosMoves:
