@@ -1819,11 +1819,16 @@ ElectrodeEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 17, SONICBOOM
-	db 22, SELFDESTRUCT
-	db 29, LIGHT_SCREEN
-	db 40, SWIFT
-	db 50, EXPLOSION
+	db 7, THUNDERSHOCK
+	db 9, THUNDERWAVE
+	db 12, SWIFT
+	db 16, SONICBOOM
+	db 21, SELFDESTRUCT
+	db 27, THUNDERBOLT
+	db 34, EXPLOSION
+	db 37, LIGHT_SCREEN
+	db 41, DOUBLE_EDGE
+	db 46, THUNDER
 	db 0
 
 ClefableEvosMoves:
