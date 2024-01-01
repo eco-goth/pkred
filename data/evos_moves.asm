@@ -723,11 +723,13 @@ MachokeEvosMoves:
 	db EV_ITEM, HEART_STONE, 1, MACHAMP
 	db 0
 ; Learnset
-	db 20, LOW_KICK
-	db 25, LEER
-	db 36, FOCUS_ENERGY
-	db 44, SEISMIC_TOSS
-	db 52, SUBMISSION
+	db 7, LEER
+	db 13, LOW_KICK
+	db 19, COMET_PUNCH
+	db 25, SEISMIC_TOSS
+	db 31, KARATE_CHOP
+	db 37, DIZZY_PUNCH
+	db 43, SUBMISSION
 	db 0
 
 MrMimeEvosMoves:
@@ -1676,11 +1678,13 @@ MachampEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 20, LOW_KICK
-	db 25, LEER
-	db 36, FOCUS_ENERGY
-	db 44, SEISMIC_TOSS
-	db 52, SUBMISSION
+	db 7, LEER
+	db 13, LOW_KICK
+	db 19, COMET_PUNCH
+	db 25, SEISMIC_TOSS
+	db 31, KARATE_CHOP
+	db 37, DIZZY_PUNCH
+	db 43, SUBMISSION
 	db 0
 
 MissingNo7FEvosMoves:
