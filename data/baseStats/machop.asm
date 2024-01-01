@@ -13,7 +13,7 @@ dw MachopPicFront
 dw MachopPicBack
 ; attacks known at lvl 0
 db LOW_KICK
-db LEER
+db FOCUS_ENERGY
 db 0
 db 0
 db 3 ; growth rate
