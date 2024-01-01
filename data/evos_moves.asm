@@ -606,14 +606,14 @@ OnixEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 12, HARDEN
-	db 14, ROCK_THROW
-	db 17, SLAM
-	db 21, DIG
-	db 26, BIND
-	db 32, ROCK_SLIDE
-	db 37, FISSURE
-	db 45, EARTHQUAKE
+	db 13, HARDEN
+	db 15, ROCK_THROW
+	db 20, SLAM
+	db 24, DIG
+	db 29, BIND
+	db 35, ROCK_SLIDE
+	db 40, FISSURE
+	db 48, EARTHQUAKE
 	db 0
 
 FearowEvosMoves:
