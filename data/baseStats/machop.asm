@@ -13,7 +13,7 @@ dw MachopPicFront
 dw MachopPicBack
 ; attacks known at lvl 0
 db LOW_KICK
-db SEISMIC_TOSS
+db LEER
 db 0
 db 0
 db 3 ; growth rate
