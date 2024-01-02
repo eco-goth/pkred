@@ -1,8 +1,8 @@
 Route3Mons:
 	db $14
-	db 9,SPEAROW
-	db 9,MANKEY
-	db 10,VULPIX
+	db 10,SPEAROW
+	db 10,MANKEY
+	db 11,VULPIX
 	db 9,JIGGLYPUFF
 	db 10,RATTATA
 	db 11,RATTATA
