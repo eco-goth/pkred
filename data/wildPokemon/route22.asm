@@ -1,13 +1,13 @@
 Route22Mons:
 	db $19
-	db 3,NIDORAN_M
-	db 3,NIDORAN_F
+	db 4,NIDORAN_M
+	db 4,NIDORAN_F
 	db 4,SPEAROW
 	db 5,SPEAROW
 	db 5,NIDORAN_F
 	db 5,NIDORAN_M
-	db 3,POLIWAG
-	db 5,MANKEY
 	db 4,POLIWAG
-	db 6,MANKEY
+	db 5,MANKEY
+	db 5,POLIWAG
+	db 8,MANKEY
 	db $00
