@@ -5,7 +5,7 @@ Route24Mons:
 	db 15,ODDISH
 	db 10,ABRA
 	db 16,BELLSPROUT
-	db 16,PIDGEY
+	db 16,POLIWAG
 	db 15,VENONAT
 	db 15,VENONAT
 	db 17,PIDGEY
