@@ -801,6 +801,7 @@ PsyduckEvosMoves:
 	db 0
 ; Learnset
 	db 7, TAIL_WHIP
+	db 9, WATER_GUN
 	db 12, DISABLE
 	db 15, CONFUSION
 	db 20, FURY_SWIPES
@@ -1700,6 +1701,7 @@ GolduckEvosMoves:
 	db 0
 ; Learnset
 	db 7, TAIL_WHIP
+	db 9, WATER_GUN
 	db 12, DISABLE
 	db 15, CONFUSION
 	db 20, FURY_SWIPES
