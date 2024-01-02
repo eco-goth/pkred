@@ -341,8 +341,8 @@ LickitungEvosMoves:
 	db 0
 ; Learnset
 	db 16, COUNTER
-	db 19, WATER_GUN
-	db 20, ROCK_THROW
+	db 20, WATER_GUN
+	db 21, ROCK_THROW
 	db 24, WRAP
 	db 28, SLAM
 	db 32, SUBSTITUTE
