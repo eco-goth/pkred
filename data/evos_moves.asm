@@ -269,7 +269,7 @@ VoltorbEvosMoves:
 	db 0
 ; Learnset
 	db 7, THUNDERSHOCK
-	db 9, THUNDERWAVE
+	db 9, THUNDER_WAVE
 	db 12, SWIFT
 	db 16, SONICBOOM
 	db 21, SELFDESTRUCT
@@ -1832,7 +1832,7 @@ ElectrodeEvosMoves:
 	db 0
 ; Learnset
 	db 7, THUNDERSHOCK
-	db 9, THUNDERWAVE
+	db 9, THUNDER_WAVE
 	db 12, SWIFT
 	db 16, SONICBOOM
 	db 21, SELFDESTRUCT
