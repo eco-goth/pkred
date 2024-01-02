@@ -368,6 +368,7 @@ GrimerEvosMoves:
 	db EV_LEVEL, 38, MUK
 	db 0
 ; Learnset
+	db 14, ACID
 	db 30, POISON_GAS
 	db 33, MINIMIZE
 	db 37, SLUDGE
@@ -896,6 +897,7 @@ KoffingEvosMoves:
 	db EV_LEVEL, 35, WEEZING
 	db 0
 ; Learnset
+	db 14, ACID
 	db 32, SLUDGE
 	db 37, SMOKESCREEN
 	db 40, SELFDESTRUCT
