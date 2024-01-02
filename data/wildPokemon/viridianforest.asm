@@ -1,13 +1,13 @@
 ForestMons:
 	db $08
-	db 4,CATERPIE
-	db 4,WEEDLE
-	db 7,METAPOD
-	db 4,ODDISH
-	db 5,ODDISH
-	db 7,KAKUNA
 	db 6,CATERPIE
-	db 5,PIKACHU
-	db 7,PIDGEY
-	db 9,PIDGEOTTO
+	db 6,WEEDLE
+	db 8,METAPOD
+	db 8,ODDISH
+	db 9,ODDISH
+	db 8,KAKUNA
+	db 6,CATERPIE
+	db 7,PIKACHU
+	db 8,PIDGEY
+	db 11,PIDGEOTTO
 	db $00
