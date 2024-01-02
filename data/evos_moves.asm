@@ -340,9 +340,11 @@ LickitungEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 20, COUNTER
+	db 16, COUNTER
+	db 19, WATER_GUN
+	db 20, ROCK_THROW
 	db 24, WRAP
-	db 28, BODY_SLAM
+	db 28, SLAM
 	db 32, SUBSTITUTE
 	db 36, DOUBLE_EDGE
 	db 40, SCREECH
